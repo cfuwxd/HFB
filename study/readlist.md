@@ -4,4 +4,5 @@
 
 - matplotlib
 - scikit-learn
+- [ghmm](http://hmmlearn.readthedocs.io/en/latest/)
 - tensor
